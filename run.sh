@@ -1,0 +1,3 @@
+#!/bin/sh
+echo Launching docker container...
+docker run -it jatay/hello-world:latest
